@@ -6,7 +6,7 @@ https://vimeo.com/373051209
 
 ## Usage
 
-### Compile or Download from Release
+### Compile or Download from Release (https://github.com/apt69/COMahawk/releases)
 
 1. Run COMahawk.exe
 2. ???
