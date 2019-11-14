@@ -1,5 +1,5 @@
 # COMahawk
-Weaponizing CVE-2019-1405 and CVE-2019-1322
+Privilege Escalation: Weaponizing CVE-2019-1405 and CVE-2019-1322
 
 ## Video Demo
 https://vimeo.com/373051209
