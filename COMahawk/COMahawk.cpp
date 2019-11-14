@@ -1,7 +1,7 @@
 #include <atlbase.h>    // CComPtr
 #include <Propvarutil.h>
 #include <string>
-#import "wshom.ocx" no_namespace, raw_interfaces_only  
+#import "wshom.ocx" no_namespace, raw_interfaces_only  // Error here is a bug. It will still compile
 
 const GUID guidObject = { 0x6d8ff8e7,0x730d,0x11d4,{0xbf,0x42,0x00,0xb0,0xd0,0x11,0x8b,0x56} };
 
