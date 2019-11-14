@@ -14,19 +14,19 @@ https://vimeo.com/373051209
 
 or
 
-1. COMahawk.exe <custom command to run> (ie. COMahawk.exe "net user /add test123 lol123 &")
+1. COMahawk.exe "custom command to run" (ie. COMahawk.exe "net user /add test123 lol123 &")
 2. ???
 3. Hopefully profit
 
 ## Concerns
 I noticed that on my W10 1709, the second bug does not exist aka Local Service does not have permission to modify/execute/stop UsoSvc
 
-However, it is confirmed that my 1903 does indeed have this bug so maybe it was introduced somewhere inbetween.
+However, it is confirmed that my 1903 does indeed have this bug so maybe it was introduced somewhere inbetween. YMMV.
 
 Also, since you are executing from a service - you most likely cannot spawn any Window hence all command will be "GUI-less". Maybe different session? Idk, it is too late and I am tired haha.
 
 ## Credits:
-https://twitter.com/leoloobeek for helping me even when he doesn't have a laptop
+https://twitter.com/leoloobeek for helping me even when he doesn't even have a laptop
 
 https://twitter.com/TomahawkApt69 for being the mental support and motivation
 
