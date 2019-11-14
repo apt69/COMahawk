@@ -19,7 +19,7 @@ or
 3. Hopefully profit
 
 ## Concerns
-**I noticed that on my W10 1709 and W10 1809, the second bug does not exist aka Local Service does not have permission to modify/execute/stop UsoSvc. NCC Mentioned that 1803 to 1903 is affected but it seems like 1809 is not, /shrug**
+**I noticed that on my W10 1709, 1803 and 1809, the second bug does not exist aka Local Service does not have permission to modify/execute/stop UsoSvc. NCC Mentioned that 1803 to 1903 is affected. /shrug**
 
 However, it is confirmed that my 1903 does indeed have this bug so maybe it was introduced somewhere inbetween. YMMV.
 
