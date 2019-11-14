@@ -19,7 +19,7 @@ or
 3. Hopefully profit
 
 ## Concerns
-**NCC Mentioned that 1803 to 1903 is affected. I noticed that on my W10 1709, 1803 and 1809, CVE-2019-1322 does not exist aka Local Service does not have permission to modify/execute/stop UsoSvc (Maybe it was patched?).**
+**MSDN mentioned that only 1803 to 1903 is vulnerable to CVE-2019-1322. If it doesn't work, maybe it was patched.**
 
 However, it is confirmed that my 1903 does indeed have this bug so maybe it was introduced somewhere inbetween. YMMV.
 
